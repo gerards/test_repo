@@ -9,7 +9,7 @@ aww jeah
 
 
 def main():
-    print('main')
+    print(f'feature_test __name__ = {__name__}')
 
 
 if __name__ == '__main__':
